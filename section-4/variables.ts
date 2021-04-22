@@ -1,6 +1,6 @@
 // annotation
 //let apples: number = 5;
-// interference
+// inference
 let apples = 5;
 
 let speed: string = 'fast';
